@@ -1,5 +1,10 @@
 ---
-title: "About This Website"
+title: ""
 ---
 
-More about this website. SEGUNDO
+EDUCATION:
+<br>2008 - 2013 UNIVERSIDAD NACIONAL AGRARIA LA MOLINA
+<br>Bachiller, Estadística e Informática
+<br>
+<br>2019 - Actualidad UNIVERSIDAD RICARDO PALMA
+<br>Estudiante, Maestría en Ciencia de los Datos

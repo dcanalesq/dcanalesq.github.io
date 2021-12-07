@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: ""
 ---
 
-Hello, Website! PRIMERO
+¡Hola!, soy Estadístico e Informático de la Universidad Nacional Agraria La Molina (UNALM) con experiencia en el área de Inteligencia Comercial. Actualmente trabajo en ESAN - Graduate School of Business, desarrollando e implementando soluciones analíticas para una mejor toma de decisiones.
